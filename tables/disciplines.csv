@@ -1,0 +1,13 @@
+name,classes,importance
+Geography,GEO1;GEO2,mandatory
+History,HIST01;HIST02,mandatory
+Sociology,SOCIO01,mandatory
+German,GER01;GER02,mandatory
+English,ENG01;ENG02,mandatory
+Math,MAT01;MAT02,mandatory
+Physics,PHY01;PHY02,mandatory
+Sport,SPOR01;SPOR02,mandatory
+Chemistry,CHE01,mandatory
+Biology,BIO01,mandatory
+French,FRE01,optional
+Latin,LAT01,optional
